@@ -10,14 +10,19 @@
 ## Setup
 
  - Screengrabber
- - Disk space.
+ - Disk space. Either:
+ 	 + record all data to local NAS and use that as workspace due to the huge amounts of data generated every day
+ 	 	+ privacy concern: should that be in a shared space or should clients be isolated?
+ 	 + record everything locally, only push to NAS as archive.
+		+ In both cases, when a finished release is pushed, it is automatically uploaded to the web (YouTube, Vimeo, and research if there are other alternatives).
+ 	 
  - Shell session replay: 
      + Script (http://www.linuxnix.com/2013/04/record-terminalshell-session-linux.html)
 
  - Cameras
      + Establishing shot. (long shot head to toe)
      + Mid shot (Upper body)
-     + Overhead shot (Desk)
+     + Overhead shot (Desk) GoPro in wide angle setting
      + Close up (Hands)
 
 ### Procurement
