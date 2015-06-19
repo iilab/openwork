@@ -65,7 +65,7 @@ Clean up as you go of screencap video.
      + Video Summary: http://readmes.numm.org/interlace3/
      + Text Summary
      + Text transcription?
-     	+ Transcription of the finished video can be made by YouTube, the quality is mediocre for casual speaking and a mobile phone audio recording but seems sufficient if the audio recording is very good (clip on mic)
+     	+ Transcription of the finished video can be made by YouTube, the quality is mediocre for casual speaking and a mobile phone audio recording but seems sufficient if the audio recording is very good (clip on mic). The transcribed text is served as an XML from YouTube without timestamps. After uploading the footage to YouTube and the encoding finished it takes a few minutes until the subtilte option is available. 
 
 
 ## Capture
