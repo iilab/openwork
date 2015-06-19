@@ -20,10 +20,10 @@
      + Script (http://www.linuxnix.com/2013/04/record-terminalshell-session-linux.html)
 
  - Cameras
-     + Establishing shot. (long shot head to toe)
-     + Mid shot (Upper body)
+     + Establishing shot. (long shot head to toe) - for example a central camera in the middle of the office space on a tripod at eye level
+     + Mid shot (Upper body) - for the newest MacBooks the integrated HD camera might be sufficient without disturbing the work space.
      + Overhead shot (Desk) GoPro in wide angle setting
-     + Close up (Hands)
+     + Close up (Hands) - Is a seperate camera needed or can the overhead cam stream be cropped? ie. recording with 4k in wide angle, then cropping to 1080p
 
 ### Procurement
 
