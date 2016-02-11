@@ -76,6 +76,7 @@ Clean up as you go of screencap video.
 ## Capture
 
  - Activate Video Recording? Webcam? External Cam?
+     + Linux GUI screen capture: Vokoscreen (lossy mkv, optional audio, optional webcam PiP)
  - View finder or current scene indicator on phone.
  - Shortcuts to change scenes/cameras/angles.
 
@@ -85,7 +86,7 @@ Clean up as you go of screencap video.
 ## Post
 
  - Editing
- -
+     + MKV containers can be split and merged: ffmpeg -ss 00:01:35 -i screencapture-LongFile.mkv -codec copy -t 00:01:00 TrimmedOutput.mkv
  - Transcribing
 
 ## Review
