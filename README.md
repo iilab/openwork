@@ -85,6 +85,7 @@ Clean up as you go of screencap video.
 ## Post
 
  - Editing
+ -
  - Transcribing
 
 ## Review
