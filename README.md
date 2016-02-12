@@ -76,7 +76,7 @@ Clean up as you go of screencap video.
 ## Capture
 
  - Activate Video Recording? Webcam? External Cam?
-     + Linux GUI screen capture: Vokoscreen (lossy mkv, optional audio, optional webcam PiP)
+     + Linux GUI screen capture: Vokoscreen (lossy mkv, optional audio, optional webcam PiP) https://github.com/vkohaupt/vokoscreen
  - View finder or current scene indicator on phone.
  - Shortcuts to change scenes/cameras/angles.
 
