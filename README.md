@@ -80,6 +80,10 @@ Clean up as you go of screencap video.
  - View finder or current scene indicator on phone.
  - Shortcuts to change scenes/cameras/angles.
 
+ - Capture Terminal timestamped stdio to be able to 
+     + Create a higher level Timeline to match significant events (test ran, test passed, failed,...)
+     + Recreate renderings of keyboard input and terminal output independently of screen visibility. 
+
  - Dealing with errors on the fly.
      + Rewind between sentences. (Streaming NLP) -> Rob.
 
